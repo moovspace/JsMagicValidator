@@ -1,4 +1,4 @@
-# JsMagicValidator - form input validation jquery plugin
+# JsInputValidator - form input validation jquery plugin
 Validate form input with regex, show input error label with icon, animate and move placeholder to input top.
 
 
@@ -41,7 +41,7 @@ $(document).ready(function() {
 
 
 ### Image
-![](https://raw.githubusercontent.com/breakermind/JsMagicValidator/master/js-magic-validator-jquery-plugin.png)
+![](https://github.com/moovspace/JsInputValidator/blob/master/JsMagicValidator.png)
 
 #### jQuery plugin how to
 - https://learn.jquery.com/plugins/advanced-plugin-concepts/
